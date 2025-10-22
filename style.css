@@ -3903,6 +3903,114 @@ div.tooltip-up{
   
   @media (max-width: 768px) {
 
+    .adrressBar {
+        flex-wrap: wrap;
+    }
+
+    .sideBar {
+        width: 100%;
+        height: auto;
+        margin: 25px;
+    }
+
+    .MainPhone {
+        width: 90%;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .PhoneOrLavazem{
+        width: 100%;
+        height: auto;
+    }
+
+    .Filter{
+        width: 100%;
+        height: auto;
+    }
+
+    .FilterTop{
+        width: auto;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .BetWeenPhone p{
+        margin-bottom: 0;
+    }
+
+    .bluFooter .mainBluFooter .getUp .getUpButton{
+        width: 250px;
+        height: auto;
+    }
+
+    .bluFooter .mainBluFooter .mojavez {
+        width: auto;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 15px;
+    }
+
+    .bluFooter .mainBluFooter .NamadQ {
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        margin: 0px auto;
+        justify-content: unset;
+    }
+
+    .bluFooter .mainBluFooter .digiOption {
+        margin: 15px auto;
+        width: auto;
+        height: auto;
+        flex-direction: column;
+    }
+
+    .bluFooter .mainBluFooter .Namadha {
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        margin-bottom: 0;
+    }
+
+    .bluFooter .mainBluFooter .ulList .ulLeft{
+        width: 100%;
+        height: auto;
+    }
+
+    .bluFooter .mainBluFooter .ulList .ulCenter {
+        height: auto;
+        width: 100%;
+    }
+
+    .bluFooter .mainBluFooter .connect .connectUs p {
+        text-align: center;
+    }
+
+    .bluFooter .mainBluFooter .ulList .ulRight{
+        padding: 20px;
+        width: 100%;
+        height: auto;
+    }
+
+    .bluFooter .mainBluFooter .ulList{
+        flex-direction: column;
+        height: auto;
+    }
+
+    .bodyPhone .FilterTop .FillterTopClass {
+        width: 335px;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .bodyPhone .FilterTop .FillterTopClass p {
+        margin-bottom: 15px;
+    }
+
     .productDetail {
         width: auto;
         flex-direction: column;
